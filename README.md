@@ -22,8 +22,20 @@
 </p>
 
 ---
+
 <p align="center">
-  <b>Assignment URL</b> https://2025aa05308-mlassignment-2.streamlit.app/
+  <a href="https://github.com/2025aa05308-crypto/ml_assignment">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
+  </a>
+  &nbsp;
+  <a href="https://2025aa05308-mlassignment-2.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  <b>GitHub Repo:</b> <a href="https://github.com/2025aa05308-crypto/ml_assignment">https://github.com/2025aa05308-crypto/ml_assignment</a><br>
+  <b>Live App:</b> <a href="https://2025aa05308-mlassignment-2.streamlit.app/">https://2025aa05308-mlassignment-2.streamlit.app/</a>
 </p>
 
 ---
