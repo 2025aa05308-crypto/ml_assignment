@@ -235,6 +235,58 @@ Opens at `http://localhost:8501`
 
 ---
 
+## Application Snapshots
+
+**Home Page**  
+![Home Page](snapshots/1.Home_Page.png)
+
+<br>
+
+**Logistic Regression**  
+![Logistic Regression](snapshots/2.Logistic_Regression.png)
+
+<br>
+
+**Decision Tree**  
+![Decision Tree](snapshots/3.Decision_Tree.png)
+
+<br>
+
+**K-Nearest Neighbor (KNN)**  
+![KNN](snapshots/4.KNN.png)
+
+<br>
+
+**Naive Bayes (Gaussian)**  
+![Naive Bayes](snapshots/5.Naive_Bayes.png)
+
+<br>
+
+**Random Forest**  
+![Random Forest](snapshots/6.Random_Forest.png)
+
+<br>
+
+**XGBoost**  
+![XGBoost](snapshots/7.XGBoost.png)
+
+<br>
+
+**Model Comparison**  
+![Model Comparison](snapshots/8.Model_Comparison.png)
+
+<br>
+
+**About**  
+![About](snapshots/9.About.png)
+
+<br>
+
+**BITS Virtual Lab**  
+![BITS Virtual Lab](snapshots/10.Bits_Virtual_Lab.jpeg)
+
+---
+
 ## Student Details
 
 **Akshaya Basayya Hiremath**  
