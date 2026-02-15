@@ -22,7 +22,11 @@
 </p>
 
 ---
+<p align="center">
+  <b>Assignment URL</b> https://2025aa05308-mlassignment-2.streamlit.app/
+</p>
 
+---
 ## a. Problem Statement
 
 Customer churn is a critical business challenge in the telecommunications industry where companies lose revenue when subscribers discontinue their services. This project builds and compares **six machine learning classification models** to predict whether a customer is likely to churn, enabling proactive retention strategies.
