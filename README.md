@@ -132,13 +132,12 @@ project-folder/
 ## Installation & Setup
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - pip
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/2025aa05308-crypto/ml_assignment
 ```
 
 ### 2. Install dependencies
